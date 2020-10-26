@@ -1,0 +1,2 @@
+# PythonZadania
+Adrian Domagała 
