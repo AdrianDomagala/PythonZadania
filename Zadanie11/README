@@ -1,0 +1,15 @@
+========================================================================
+Autor: Adrian Domagała,                               Kraków, 26.01.2021
+========================================================================
+
+* Zawartość:
+============
+
+Rozwiązania zadań 11.1 oraz 11.2
+------------------------------------------------------------------------
+
+I. randomNumber.py - moduł pozwalający na tworzenie list liczb przeznaczonych do sortowania.
+
+II. Zad_11_2_notebook.ipynb - jupyther notebook zawierający implementację algorytmu mergesort iteracyjnego oraz tworzący gif z kolejnymi etapami sortowania
+
+III. merge_sort.gif - animowany plik ilustrujący działanie sortowania przez scalania dla przykładowego zestawu stu liczb
